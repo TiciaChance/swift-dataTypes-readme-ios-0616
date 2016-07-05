@@ -16,3 +16,23 @@ let numberOfCountriesInAfrica = 54
 
 let numberOfMoonsOfSaturn = 62
 print("There are \(numberOfMoonsOfSaturn) moons orbiting \(sixthPlanet)")
+
+
+//my own code 
+
+//declaring a variable w/o a value? That's cool, but make sure to declare the value TYPE. Colon (:) == "is type of"
+
+
+//girl band galore
+let firstBand: String
+firstBand = "Hole"
+
+let secondBand: String
+secondBand = "Yeah Yeah Yeahs"
+
+let thirdBand: String
+thirdBand = "Sleater-Kinney"
+
+let fourthGirlBand = "Best Coast"
+
+print("Is it too late to see \(firstBand) in concert?")
